@@ -386,5 +386,4 @@ For issues, questions, or contributions:
 ---
 
 **Built for professional image processing workflows with attention to quality, performance, and maintainability.**# CropV2
-#   C r o p V 2  
- # CropV2
+#
